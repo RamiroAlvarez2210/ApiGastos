@@ -1,0 +1,17 @@
+E:\Proyectos - Estudios\APIs\C#\ApiGastos\ApiGastos.Infrastructure\bin\Debug\net9.0\ApiGastos.Infrastructure.deps.json
+E:\Proyectos - Estudios\APIs\C#\ApiGastos\ApiGastos.Infrastructure\bin\Debug\net9.0\ApiGastos.Infrastructure.dll
+E:\Proyectos - Estudios\APIs\C#\ApiGastos\ApiGastos.Infrastructure\bin\Debug\net9.0\ApiGastos.Infrastructure.pdb
+E:\Proyectos - Estudios\APIs\C#\ApiGastos\ApiGastos.Infrastructure\bin\Debug\net9.0\ApiGastos.Domain.dll
+E:\Proyectos - Estudios\APIs\C#\ApiGastos\ApiGastos.Infrastructure\bin\Debug\net9.0\ApiGastos.Domain.pdb
+E:\Proyectos - Estudios\APIs\C#\ApiGastos\ApiGastos.Infrastructure\obj\Debug\net9.0\ApiGastos.Infrastructure.csproj.AssemblyReference.cache
+E:\Proyectos - Estudios\APIs\C#\ApiGastos\ApiGastos.Infrastructure\obj\Debug\net9.0\ApiGastos.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos - Estudios\APIs\C#\ApiGastos\ApiGastos.Infrastructure\obj\Debug\net9.0\ApiGastos.Infrastructure.AssemblyInfoInputs.cache
+E:\Proyectos - Estudios\APIs\C#\ApiGastos\ApiGastos.Infrastructure\obj\Debug\net9.0\ApiGastos.Infrastructure.AssemblyInfo.cs
+E:\Proyectos - Estudios\APIs\C#\ApiGastos\ApiGastos.Infrastructure\obj\Debug\net9.0\ApiGastos.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Proyectos - Estudios\APIs\C#\ApiGastos\ApiGastos.Infrastructure\obj\Debug\net9.0\ApiGasto.D822420E.Up2Date
+E:\Proyectos - Estudios\APIs\C#\ApiGastos\ApiGastos.Infrastructure\obj\Debug\net9.0\ApiGastos.Infrastructure.dll
+E:\Proyectos - Estudios\APIs\C#\ApiGastos\ApiGastos.Infrastructure\obj\Debug\net9.0\refint\ApiGastos.Infrastructure.dll
+E:\Proyectos - Estudios\APIs\C#\ApiGastos\ApiGastos.Infrastructure\obj\Debug\net9.0\ApiGastos.Infrastructure.pdb
+E:\Proyectos - Estudios\APIs\C#\ApiGastos\ApiGastos.Infrastructure\obj\Debug\net9.0\ref\ApiGastos.Infrastructure.dll
+E:\Proyectos - Estudios\APIs\C#\ApiGastos\ApiGastos.Infrastructure\bin\Debug\net9.0\ApiGastos.Infrastructure.runtimeconfig.json
+E:\Proyectos - Estudios\APIs\C#\ApiGastos\ApiGastos.Infrastructure\obj\Debug\net9.0\ApiGastos.Infrastructure.genruntimeconfig.cache

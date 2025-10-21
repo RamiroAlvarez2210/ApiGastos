@@ -1,0 +1,11 @@
+E:\Proyectos - Estudios\APIs\C#\ApiGastos\ApiGastos.Domain\bin\Debug\net9.0\ApiGastos.Domain.deps.json
+E:\Proyectos - Estudios\APIs\C#\ApiGastos\ApiGastos.Domain\bin\Debug\net9.0\ApiGastos.Domain.dll
+E:\Proyectos - Estudios\APIs\C#\ApiGastos\ApiGastos.Domain\bin\Debug\net9.0\ApiGastos.Domain.pdb
+E:\Proyectos - Estudios\APIs\C#\ApiGastos\ApiGastos.Domain\obj\Debug\net9.0\ApiGastos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos - Estudios\APIs\C#\ApiGastos\ApiGastos.Domain\obj\Debug\net9.0\ApiGastos.Domain.AssemblyInfoInputs.cache
+E:\Proyectos - Estudios\APIs\C#\ApiGastos\ApiGastos.Domain\obj\Debug\net9.0\ApiGastos.Domain.AssemblyInfo.cs
+E:\Proyectos - Estudios\APIs\C#\ApiGastos\ApiGastos.Domain\obj\Debug\net9.0\ApiGastos.Domain.csproj.CoreCompileInputs.cache
+E:\Proyectos - Estudios\APIs\C#\ApiGastos\ApiGastos.Domain\obj\Debug\net9.0\ApiGastos.Domain.dll
+E:\Proyectos - Estudios\APIs\C#\ApiGastos\ApiGastos.Domain\obj\Debug\net9.0\refint\ApiGastos.Domain.dll
+E:\Proyectos - Estudios\APIs\C#\ApiGastos\ApiGastos.Domain\obj\Debug\net9.0\ApiGastos.Domain.pdb
+E:\Proyectos - Estudios\APIs\C#\ApiGastos\ApiGastos.Domain\obj\Debug\net9.0\ref\ApiGastos.Domain.dll

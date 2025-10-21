@@ -1,0 +1,15 @@
+E:\Proyectos - Estudios\APIs\C#\ApiGastos\ApiGastos.Application\bin\Debug\net9.0\ApiGastos.Application.deps.json
+E:\Proyectos - Estudios\APIs\C#\ApiGastos\ApiGastos.Application\bin\Debug\net9.0\ApiGastos.Application.dll
+E:\Proyectos - Estudios\APIs\C#\ApiGastos\ApiGastos.Application\bin\Debug\net9.0\ApiGastos.Application.pdb
+E:\Proyectos - Estudios\APIs\C#\ApiGastos\ApiGastos.Application\bin\Debug\net9.0\ApiGastos.Domain.dll
+E:\Proyectos - Estudios\APIs\C#\ApiGastos\ApiGastos.Application\bin\Debug\net9.0\ApiGastos.Domain.pdb
+E:\Proyectos - Estudios\APIs\C#\ApiGastos\ApiGastos.Application\obj\Debug\net9.0\ApiGastos.Application.csproj.AssemblyReference.cache
+E:\Proyectos - Estudios\APIs\C#\ApiGastos\ApiGastos.Application\obj\Debug\net9.0\ApiGastos.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos - Estudios\APIs\C#\ApiGastos\ApiGastos.Application\obj\Debug\net9.0\ApiGastos.Application.AssemblyInfoInputs.cache
+E:\Proyectos - Estudios\APIs\C#\ApiGastos\ApiGastos.Application\obj\Debug\net9.0\ApiGastos.Application.AssemblyInfo.cs
+E:\Proyectos - Estudios\APIs\C#\ApiGastos\ApiGastos.Application\obj\Debug\net9.0\ApiGastos.Application.csproj.CoreCompileInputs.cache
+E:\Proyectos - Estudios\APIs\C#\ApiGastos\ApiGastos.Application\obj\Debug\net9.0\ApiGasto.31F7A60D.Up2Date
+E:\Proyectos - Estudios\APIs\C#\ApiGastos\ApiGastos.Application\obj\Debug\net9.0\ApiGastos.Application.dll
+E:\Proyectos - Estudios\APIs\C#\ApiGastos\ApiGastos.Application\obj\Debug\net9.0\refint\ApiGastos.Application.dll
+E:\Proyectos - Estudios\APIs\C#\ApiGastos\ApiGastos.Application\obj\Debug\net9.0\ApiGastos.Application.pdb
+E:\Proyectos - Estudios\APIs\C#\ApiGastos\ApiGastos.Application\obj\Debug\net9.0\ref\ApiGastos.Application.dll
