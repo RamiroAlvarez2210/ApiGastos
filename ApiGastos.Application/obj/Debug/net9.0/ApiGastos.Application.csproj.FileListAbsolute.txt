@@ -13,3 +13,4 @@ E:\Proyectos - Estudios\APIs\C#\ApiGastos\ApiGastos.Application\obj\Debug\net9.0
 E:\Proyectos - Estudios\APIs\C#\ApiGastos\ApiGastos.Application\obj\Debug\net9.0\refint\ApiGastos.Application.dll
 E:\Proyectos - Estudios\APIs\C#\ApiGastos\ApiGastos.Application\obj\Debug\net9.0\ApiGastos.Application.pdb
 E:\Proyectos - Estudios\APIs\C#\ApiGastos\ApiGastos.Application\obj\Debug\net9.0\ref\ApiGastos.Application.dll
+E:\Proyectos - Estudios\APIs\C#\ApiGastos\ApiGastos.Application\obj\Debug\net9.0\ApiGastos.Application.sourcelink.json

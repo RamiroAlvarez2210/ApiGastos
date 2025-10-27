@@ -1,7 +1,7 @@
 //builder.Services.AddOpenApi();
 using ApiGastos.Builder;
 
-
+using ApiGastos.API.Middlewares;
 // ejecutar dotnet run --project ApiGastos.API
 namespace ApiGastos
 {
@@ -19,6 +19,10 @@ namespace ApiGastos
             }
 
             DataBaseConfig.DBConfig(app);
+
+
+            app.UseRedirect(); // no es request es redirect
+            
             app.UseHttpsRedirection();
             app.UseAuthorization();
             app.MapControllers();

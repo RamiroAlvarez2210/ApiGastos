@@ -15,3 +15,4 @@ E:\Proyectos - Estudios\APIs\C#\ApiGastos\ApiGastos.Infrastructure\obj\Debug\net
 E:\Proyectos - Estudios\APIs\C#\ApiGastos\ApiGastos.Infrastructure\obj\Debug\net9.0\ref\ApiGastos.Infrastructure.dll
 E:\Proyectos - Estudios\APIs\C#\ApiGastos\ApiGastos.Infrastructure\bin\Debug\net9.0\ApiGastos.Infrastructure.runtimeconfig.json
 E:\Proyectos - Estudios\APIs\C#\ApiGastos\ApiGastos.Infrastructure\obj\Debug\net9.0\ApiGastos.Infrastructure.genruntimeconfig.cache
+E:\Proyectos - Estudios\APIs\C#\ApiGastos\ApiGastos.Infrastructure\obj\Debug\net9.0\ApiGastos.Infrastructure.sourcelink.json

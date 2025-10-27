@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiGastos.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8dcb481a68c8bf1291010c0c64c42cf075fc21c")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiGastos.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiGastos.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

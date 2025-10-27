@@ -203,3 +203,4 @@ E:\Proyectos - Estudios\APIs\C#\ApiGastos\ApiGastos.API\bin\Debug\net9.0\Microso
 E:\Proyectos - Estudios\APIs\C#\ApiGastos\ApiGastos.API\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
 E:\Proyectos - Estudios\APIs\C#\ApiGastos\ApiGastos.API\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Physical.dll
 E:\Proyectos - Estudios\APIs\C#\ApiGastos\ApiGastos.API\bin\Debug\net9.0\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Proyectos - Estudios\APIs\C#\ApiGastos\ApiGastos.API\obj\Debug\net9.0\ApiGastos.API.sourcelink.json

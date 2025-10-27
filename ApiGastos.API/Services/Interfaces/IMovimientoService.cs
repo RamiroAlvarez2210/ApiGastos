@@ -14,4 +14,7 @@ public interface IMovimientoService
     //void CrearUsuario(string nombre, string apellido, string contrasena);
     //decimal? ObtenerSaldo(int idUsuario);
     decimal GastoXFiltro(DateTime fechaInicial, DateTime fechaFinal);
+    void AgregarMovGalicia(string cadena, int idUsuario);
+    decimal SaldoActual(int idUsuario);
+    IEnumerable<decimal> ProfitXDias(DateTime fechaInicial, DateTime fechaFinal, int idUsuario);
 }

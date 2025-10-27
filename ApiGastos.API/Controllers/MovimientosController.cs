@@ -23,7 +23,7 @@ public class MovimientosController : ControllerBase
         int mes = DateTime.Now.Month;
 
 
-        if(fecha == null)
+        if (fecha == null)
         {
             fechaMod = DateTime.Now;
         }
@@ -37,7 +37,7 @@ public class MovimientosController : ControllerBase
             }
             else
             {
-                if (fecha.Length <= 5 && int.Parse(fecha.Substring(3)) > 0 && int.Parse(fecha.Substring(3)) <= 12 
+                if (fecha.Length <= 5 && int.Parse(fecha.Substring(3)) > 0 && int.Parse(fecha.Substring(3)) <= 12
                 && int.Parse(fecha.Substring(0, 2)) <= DateTime.DaysInMonth(ano, int.Parse(fecha.Substring(3))))
                 {
                     fechaMod = new DateTime(ano, int.Parse(fecha.Substring(3)), int.Parse(fecha.Substring(0, 2)));
@@ -47,7 +47,7 @@ public class MovimientosController : ControllerBase
         }
         _movimientoService.AgregarMovimiento(fechaMod, monto, tipo, idUsuario, descripcion);
 
-        return Ok("Movimiento cargado correctamente.");
+        return Ok($"Movimiento cargado correctamente.\nSaldo Actual: {_movimientoService.SaldoActual(idUsuario)}");
     }
     [HttpGet("movimiento/{idUsuario}")]
     public IActionResult ObtenerMovimientos(int idUsuario)
@@ -55,6 +55,11 @@ public class MovimientosController : ControllerBase
         var mov = _movimientoService.ObtenerMovimientos(idUsuario);
         if (mov == null) return NotFound();
         return Ok(mov);
+    }
+    [HttpGet("Saldo/{idUsuario}")]
+    public IActionResult ObtenerSaldo(int idUsuario)
+    {
+        return Ok($"Saldo actual: {_movimientoService.SaldoActual(idUsuario)}");
     }
     [HttpPost("Ahorro")]
     public IActionResult IngresarAhorro(string moneda, bool Plazo)
@@ -87,7 +92,15 @@ public class MovimientosController : ControllerBase
     [HttpPost("Prueba")]
     public IActionResult pruebaa(DateTime fechaInicial, DateTime fechaFinal)
     {
-        
-        return Ok(_movimientoService.GastoXFiltro(fechaInicial,fechaFinal));
+
+        return Ok(_movimientoService.GastoXFiltro(fechaInicial, fechaFinal));
     }
+    [HttpPost("movimiento/galicia/")]
+    public IActionResult IngresarMovimientoGalicia(string cadena, int idUsuario)
+    {
+
+        _movimientoService.AgregarMovGalicia(cadena, idUsuario);
+        return Ok($"Movimiento cargado correctamente.\nSaldo Actual: {_movimientoService.SaldoActual(idUsuario)}");
+    }
+    
 }

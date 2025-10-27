@@ -9,3 +9,4 @@ E:\Proyectos - Estudios\APIs\C#\ApiGastos\ApiGastos.Domain\obj\Debug\net9.0\ApiG
 E:\Proyectos - Estudios\APIs\C#\ApiGastos\ApiGastos.Domain\obj\Debug\net9.0\refint\ApiGastos.Domain.dll
 E:\Proyectos - Estudios\APIs\C#\ApiGastos\ApiGastos.Domain\obj\Debug\net9.0\ApiGastos.Domain.pdb
 E:\Proyectos - Estudios\APIs\C#\ApiGastos\ApiGastos.Domain\obj\Debug\net9.0\ref\ApiGastos.Domain.dll
+E:\Proyectos - Estudios\APIs\C#\ApiGastos\ApiGastos.Domain\obj\Debug\net9.0\ApiGastos.Domain.sourcelink.json
